@@ -1,4 +1,4 @@
 # Wheely_csc473
 
-Run Virtual Environments : cd project/Scripts && activate
-Run project : python mange.py runserver (Wheely\project\scripts\wheely)
+1. Run Virtual Environments : cd project/Scripts && activate
+2. Run project : python mange.py runserver (Wheely\project\scripts\wheely)
